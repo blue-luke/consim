@@ -9,7 +9,7 @@ $ export API_KEY=sk-proj-12345678
 
 Execute script to run web app on localhost:
 ```
-python3 main_page.py
+$ python3 main_page.py
 ```
 
 Choose a sample industry and marketing campaign, modify the prompt and analyse the feedback.
